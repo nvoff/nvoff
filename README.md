@@ -1,16 +1,24 @@
-### Hi there 👋
+### About me
 
-<!--
-**nikk178/nikk178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working in the city of Innopolis.
+</br>
+💻 I’m currently learning Python
 
-Here are some ideas to get you started:
+### 📕 Courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Coursera - Basics of Python Programming
+
+</br>
+</br>
+
+### 🔧 Technology Stack
+[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/sbrvrvl)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sbrvrvl)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/sbrvrvl)
+[![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:sbrvrvl@ya.ru)
