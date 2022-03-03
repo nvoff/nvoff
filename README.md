@@ -8,6 +8,10 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 
 - Coursera - Basics of Python Programming
 
+### MY Push 
+
+![](https://github.com/nikk178/nikk178/blob/main/assets/github-user-contribution.svg)
+
 </br>
 </br>
 
@@ -22,14 +26,3 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sbrvrvl)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/sbrvrvl)
 [![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:sbrvrvl@ya.ru)
-
-
------------------------------------------------------------------------------------------------------------------
-
-
-Generates a snake game from a github user contributions graph
-
-![](https://github.com/nikk178/nikk178/blob/main/assets/github-user-contribution.svg)
-
-
-
