@@ -29,5 +29,5 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 
 Generates a snake game from a github user contributions graph
 
-![](https://github.com/nikk178/assets//github-user-contribution.svg)
+![](https://github.com/nikk178/assets/github-user-contribution.svg)
 
