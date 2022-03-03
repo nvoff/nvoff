@@ -2,6 +2,7 @@
 
 Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working in the city of Innopolis.
 </br>
+</br>
 💻 I’m currently learning Python
 
 ### 📕 Courses
