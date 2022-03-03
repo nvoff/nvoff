@@ -24,4 +24,4 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 [![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:nv@nikk178.ru)
 
 ### Usage this
-[![Android]](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+(https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
