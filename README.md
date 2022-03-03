@@ -24,17 +24,12 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 [![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:sbrvrvl@ya.ru)
 
 
+-----------------------------------------------------------------------------------------------------------------
 
-
-# snk
-
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 Generates a snake game from a github user contributions graph
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/nikk178/assets/github-user-contribution.svg)
 
 Pull a github user's contribution graph.
 Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
