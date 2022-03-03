@@ -9,10 +9,6 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 
 - Coursera - Basics of Python Programming
 
-### My Contributions
-
-![](https://github.com/nikk178/nikk178/blob/main/assets/github-user-contribution.svg)
-
 </br>
 </br>
 
