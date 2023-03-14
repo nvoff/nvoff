@@ -7,7 +7,7 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 
 ### 📕 Courses
 
-Basics of Python Programming
+Basics of Python Programming </br>
 Web Security Academy
 
 
