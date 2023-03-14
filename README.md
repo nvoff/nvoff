@@ -7,7 +7,10 @@ Hi there, my name is Nikita Vokhmintsev . I am 23 years old, living and working 
 
 ### 📕 Courses
 
-- Coursera - Basics of Python Programming
+Basics of Python Programming
+Web Security Academy
+
+
 
 </br>
 
