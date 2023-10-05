@@ -4,7 +4,6 @@ Hi there, my name is Nikita . I am 25 years old, living and working in the city 
 
 </br>
 
-
 ### 📕 Courses
 
 Basics of Python Programming </br>
