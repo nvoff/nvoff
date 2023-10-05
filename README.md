@@ -27,7 +27,7 @@ Web Security Academy
 
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikita.vohmincev)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nikk_official)
-[![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:nv@nikk178.ru)
+[![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:)
 
 ### Usage this
 
