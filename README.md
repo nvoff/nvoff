@@ -1,9 +1,9 @@
 ### About me
 
-Hi there, my name is Nikita Vokhmintsev . I am 24 years old, living and working in the city of Innopolis. My hobby is motion design and videographer.
+Hi there, my name is Nikita . I am 25 years old, living and working in the city of Innopolis. My hobby is motion design and videographer.
 
 </br>
-💻 I’m currently learning Python and Information Security
+
 
 ### 📕 Courses
 
