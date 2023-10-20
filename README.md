@@ -26,7 +26,7 @@ Web Security Academy
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nikita.vohmincev)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nikk_official)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/nvoffi)
 [![Yandex Mail](https://img.shields.io/badge/yandex_mail-090909?style=for-the-badge&logo=appveyor&logoColor=white)](mailto:)
 
 ### Usage this
@@ -35,5 +35,3 @@ Web Security Academy
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-
