@@ -2,7 +2,7 @@
 
 Hi there, my name is Nikita .
 </br>
-### 📕 Courses
+
 Basics of Python Programming </br>
 Web Security Academy
 
